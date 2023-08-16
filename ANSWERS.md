@@ -1,3 +1,15 @@
+**PROJECTS**
+
+1 - task : https://github.com/SarvarRaxmonov/company
+
+2 - task : https://github.com/SarvarRaxmonov/products_sell 
+3 - task : https://github.com/SarvarRaxmonov/autouz 
+4 - task : https://github.com/SarvarRaxmonov/jwt_token
+5 - task : https://github.com/SarvarRaxmonov/autouz/blob/main/ANSWERS.md 
+
+
+------------------------------------------------------------------------------------------------
+
 1 . Caching nima
 **Ans** : qachonki user websitega kirganda unga websitening contentlari kerakli datalari yuklanadi cachega va 
 bu userni ishini osonlashtirib boradi qancha kup visit bulsa usha site tezroq ishlab bora veradi ,  birinchi 
