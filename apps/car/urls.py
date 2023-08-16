@@ -9,3 +9,6 @@ urlpatterns = [
     ),
     path("car-list/", CarViewSet.as_view({"get": "list"}), name="car-list"),
 ]
+
+
+

@@ -37,7 +37,6 @@ class CarDetailSerializer(serializers.ModelSerializer):
         avg_price = self.get_average_price(obj)
         price_in_difference = obj.price - avg_price
         percentage = int((price_in_difference / avg_price) * 100)
-        print(price_in_difference)
         if percentage > 0:
             comparison_type = "Expensive"
         elif percentage < 0:
