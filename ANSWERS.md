@@ -15,6 +15,7 @@
 ------------------------------------------------------------------------------------------------
 
 1 . Caching nima
+
 **Ans** : qachonki user websitega kirganda unga websitening contentlari kerakli datalari yuklanadi cachega va 
 bu userni ishini osonlashtirib boradi qancha kup visit bulsa usha site tezroq ishlab bora veradi ,  birinchi 
 bor kirganiga nisbatan .
@@ -29,6 +30,7 @@ caching qanday ishlaydi :
    agar bulmasa primary source dan olinadi .
 
 2 . Unit testlar nima
+
 **Ans** : oddiy qilib aytganda unit testlar bu in english : ( unit tests are code in charge of validating other parts of code )
      kuplab scenarios qullab kuradi va guarantiya berish uchun mana shu conditionlar to'g'ri ishlashiga .
      
@@ -38,6 +40,7 @@ caching qanday ishlaydi :
      tushishi kerak bu bir manoda keyinchalik bu bugni bolalab ketib kupayib qiyin topishni oldini oladi .
 
 3 . Select related and prefetch related 
+
 **Ans** : select related ni foydasi siz bitta query orqali ikki table dagi tegishli datalarni olishingiz 
     mumkin bu kuplab querylarni chaqirishni va keraksiz uerylarni yozishni oldini oladi va ishlatishga juda qulay 
     
